@@ -1,0 +1,26 @@
+[
+  { "id": "frock-01", "category": "frocks", "name": "Anarkali Long Frock", "price": "₹2,499", "fabric": "Cotton Silk", "badge": "New", "image": "images/frocks/frock-01.jpg" },
+  { "id": "frock-02", "category": "frocks", "name": "Floral Maxi Frock", "price": "₹2,199", "fabric": "Rayon", "badge": "", "image": "images/frocks/frock-02.jpg" },
+  { "id": "frock-03", "category": "frocks", "name": "Pleated A-Line Frock", "price": "₹2,799", "fabric": "Cotton", "badge": "", "image": "images/frocks/frock-03.jpg" },
+  { "id": "frock-04", "category": "frocks", "name": "Puff Sleeve Frock", "price": "₹2,350", "fabric": "Georgette", "badge": "", "image": "images/frocks/frock-04.jpg" },
+
+  { "id": "leh-01", "category": "lehengas", "name": "Kanjeevaram Bridal Lehenga", "price": "₹12,999", "fabric": "Pure Silk", "badge": "Bridal", "image": "images/lehengas/lehenga-01.jpg" },
+  { "id": "leh-02", "category": "lehengas", "name": "Zari Border Lehenga", "price": "₹9,499", "fabric": "Silk Blend", "badge": "", "image": "images/lehengas/lehenga-02.jpg" },
+  { "id": "leh-03", "category": "lehengas", "name": "Pastel Georgette Lehenga", "price": "₹7,999", "fabric": "Georgette", "badge": "", "image": "images/lehengas/lehenga-03.jpg" },
+  { "id": "leh-04", "category": "lehengas", "name": "Mirror Work Lehenga", "price": "₹8,750", "fabric": "Silk Cotton", "badge": "", "image": "images/lehengas/lehenga-04.jpg" },
+
+  { "id": "crop-01", "category": "croptops", "name": "Ikat Crop Top", "price": "₹899", "fabric": "Handloom Cotton", "badge": "Trending", "image": "images/croptops/croptop-01.jpg" },
+  { "id": "crop-02", "category": "croptops", "name": "Tie-Back Crop Top", "price": "₹749", "fabric": "Cotton", "badge": "", "image": "images/croptops/croptop-02.jpg" },
+  { "id": "crop-03", "category": "croptops", "name": "Mirror Work Crop Top", "price": "₹999", "fabric": "Silk Blend", "badge": "", "image": "images/croptops/croptop-03.jpg" },
+  { "id": "crop-04", "category": "croptops", "name": "Halter Neck Crop Top", "price": "₹850", "fabric": "Rayon", "badge": "", "image": "images/croptops/croptop-04.jpg" },
+
+  { "id": "kurti-01", "category": "kurtis", "name": "Asymmetric Kurti", "price": "₹1,499", "fabric": "Rayon", "badge": "Best Seller", "image": "images/kurtis/kurti-01.jpg" },
+  { "id": "kurti-02", "category": "kurtis", "name": "Straight Cut Kurti", "price": "₹1,299", "fabric": "Cotton", "badge": "", "image": "images/kurtis/kurti-02.jpg" },
+  { "id": "kurti-03", "category": "kurtis", "name": "High-Low Hem Kurti", "price": "₹1,599", "fabric": "Chanderi", "badge": "", "image": "images/kurtis/kurti-03.jpg" },
+  { "id": "kurti-04", "category": "kurtis", "name": "Indo-Western Kurti", "price": "₹1,699", "fabric": "Cotton Silk", "badge": "", "image": "images/kurtis/kurti-04.jpg" },
+
+  { "id": "blouse-01", "category": "blouses", "name": "Mirror Work Blouse", "price": "₹1,199", "fabric": "Silk", "badge": "", "image": "images/blouses/blouse-01.jpg" },
+  { "id": "blouse-02", "category": "blouses", "name": "Boat Neck Blouse", "price": "₹899", "fabric": "Cotton Silk", "badge": "", "image": "images/blouses/blouse-02.jpg" },
+  { "id": "blouse-03", "category": "blouses", "name": "Backless Tie-Up Blouse", "price": "₹1,050", "fabric": "Silk Blend", "badge": "", "image": "images/blouses/blouse-03.jpg" },
+  { "id": "blouse-04", "category": "blouses", "name": "Puff Sleeve Blouse", "price": "₹950", "fabric": "Georgette", "badge": "", "image": "images/blouses/blouse-04.jpg" }
+]
